@@ -57,5 +57,5 @@ If you would like to use this algo, please check the [license](LICENSE.md) :)
 
 ### References
 
-[1] https://en.bitcoin.it/wiki/Pooled_mining
+[1] https://en.bitcoin.it/wiki/Pooled_mining  
 [2] https://bitcoin.org/bitcoin.pdf
