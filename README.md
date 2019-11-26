@@ -55,6 +55,10 @@ If you have questions/proposals/critique - feel free to create issue for this re
 
 If you would like to use this algo, please check the [license](LICENSE.md) :)
 
+Coins using similar idea:
+
+- [Spreadcoin](https://www.spreadcoin.info/)
+
 ### References
 
 [1] https://en.bitcoin.it/wiki/Pooled_mining  
